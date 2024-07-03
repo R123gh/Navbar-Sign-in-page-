@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+form{
+    margin-top:50px;
+    margin-left: 600px;
+    justify-content: center;
+    height: 100px;
+    width: 50px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sty{
+    text-align: center;
+    justify-content: center;
+    background-color: beige;
+}
+.btn{
+    border: 2px solid black;
+    margin-top: 8px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    cursor: pointer;
+}
