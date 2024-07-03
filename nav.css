@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    border: 2px solid black;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    
+    
+}
+
+
+
+.list{
+   font-size: large;
+    color: white;
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    margin: 25px;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 25px;
+    width: 50px;
+    text-decoration: none;
+
+}
+a:hover{
+    color: blue;
+}
+.photo{
+    border-radius: 10px;
+    margin-top: 50px;
+    height: 500px;
+   border: 2px solid black;
+   background-image: url("image1.jpg");
+   background-size: cover;
+   background-position: center;
+}
+p{
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: bisque;
+
+}
+.box1{
+            
+    background-image: url("https://wallpaperaccess.com/full/1712319.jpg");
+    margin-left: 210px;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+   background-position: center;
+}
+.box2{
+   background-image: url("https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg");
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+   background-position: center;
+}
+.box{
+    margin-top: 100px;
+    background-image: url("https://wallpapercave.com/wp/wp4613757.jpg");
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+}
+.parentbox{
+    border: 2px solid black;
+   background-image: url("https://th.bing.com/th/id/OIP.39rFBr0MxZWfnI5dLkCfIQHaE7?rs=1&pid=ImgDetMain");
+    height: 200px;
+    width: 200px;
+    margin-left: 1260px;
+    background-size: cover;
+    background-position: center;
+}
+.parentbox1{
+    border: 2px solid black;
+    background-image: url("https://th.bing.com/th/id/R.97c2d17487672a5df6bc4e06381e25d3?rik=kpu1FCQHksn9hg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2fc%2f2%2f1150729-beautiful-forest-wallpaper-hd-3840x2160-for-pc.jpg&ehk=oMKHUzbmiBJAUGqV%2f6WOL5V%2bWfIyLbh%2bl2YQSBv8IdY%3d&risl=&pid=ImgRaw&r=0");
+    margin-left: 840px;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-position: center;
+
+}
+.parentbox2{
+    background-image: url("https://wallpapercave.com/wp/CYJauYK.jpg");
+    margin-left: 1260px;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid black
+}
+#foot{
+    height: 200px;
+    border-top-left-radius: 15px;
+    border: 2px solid black;
+    border-top-right-radius: 15px;
+    background-color: black;
+}
+h3{
+     padding-top: 85px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+#img3{
+    width: 100%;
+    margin-top: 20px;
+}
+
